@@ -9,4 +9,4 @@
 2. 如果路径代表目录，我们找寻index.html并展示它；如果找不到index.html，就显示目录内容的列表
 3. 通过CGI协议，添加新的功能
 
-# [A Simple Web Server](http://aosabook.org/en/500L/a-simple-web-server.html)
+这是原文的地址：[A Simple Web Server](http://aosabook.org/en/500L/a-simple-web-server.html)
